@@ -5,3 +5,5 @@
 `-` 본 연구결과를바탕으로   논문(1저자)을 작성하였으며, 현재는 대한기계학회 논문집에 투고후 reject된 상황입니다.
 
 > 논문명 : 가공 조건에 따른 CNC 공작기계의 스핀들 모터 전류 부하 예측 모델 개발(Development of CNC Spindle Motor Current Load Model Considering Machining Conditions)
+>
+> https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002978479
